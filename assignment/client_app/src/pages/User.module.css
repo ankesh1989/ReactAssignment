@@ -1,0 +1,16 @@
+.tableWarpper {
+  padding: 1rem;
+}
+
+.btnWrapper {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.rgtButtons {
+  width: 100%;
+  display: flex;
+  justify-content: end;
+  gap: 1rem;
+}
